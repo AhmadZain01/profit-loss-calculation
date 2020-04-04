@@ -17,4 +17,4 @@
 //= require rails-ujs
 //= require semantic-ui
 //= require activestorage
-
+//= require bootstrap-sprockets
