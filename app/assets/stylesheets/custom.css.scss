@@ -1,2 +1,23 @@
+$navbar-default-bg:#FFA500;
+.navbar-nav a {
+    color: white !important;
+}
+
+.dropdown-menu a {
+    color: white !important;
+    background-color: #FFA500 !important;
+}
+
+#logo{
+    float: left;
+    font-size: 1.9;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    font-weight: bold;
+}
+#logo{
+    color:white;
+}
 @import "bootstrap-sprockets";
 @import "bootstrap";
